@@ -105,7 +105,7 @@ if use_saved_model == 'False':
 else:
 
     # print("Trained model loaded from the directory...")
-    model_path = os.getcwd() + "/" + data_obj.name.lower() + "_" + str(hidden_layers) + "_layers_.pt"
+    model_path = os.getcwd() + "/saved_models/" + data_obj.name.lower() + "_" + str(hidden_layers) + "_layers_.pt"
 
 
 # evaluation
