@@ -7,6 +7,14 @@
 * Pytorch-Geometric 1.7.2
 * Numpy 1.19.5
 
+## Datasets
+We used the following four daatsets on both semi-supervised and fully-supervised settings
+
+* Cora
+* Citeseer
+* Pubmed
+* CoauthorCS
+
 ## Usage
 
 To reproduce semi-supervised results, go to semi-supervised folder 
