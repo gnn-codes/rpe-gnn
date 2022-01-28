@@ -9,14 +9,14 @@
 
 ## Usage
 
-To reproduce semi-supervised ressults, go to semi-supervised folder 
+To reproduce semi-supervised results, go to semi-supervised folder 
 and run the follwoing scripts
 ```
 chmod +x semi-supervised.sh
 ./semi-supervised.sh
 ```
 
-To reproduce fully-supervised ressults, go to fully-supervised folder 
+To reproduce fully-supervised results, go to fully-supervised folder 
 and run the follwoing scripts
 ```
 chmod +x full-supervised.sh
