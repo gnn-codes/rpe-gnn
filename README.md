@@ -1,1 +1,6 @@
-## Randomized Path Explorer Graph Neural Networks (RPE-GNN)
+# Randomized Path Explorer Graph Neural Networks (RPE-GNN)
+
+## Dependencies
+
+* Pytorch
+* Pytorch-Geometric
